@@ -128,7 +128,7 @@ GitHub
 
 ## Math
 
-Inline math: \( a^2 + b^2 = c^2 \)
+Inline math: $a^2 + b^2 = c^2$
 
 Block math:
 
